@@ -2113,7 +2113,7 @@ pre code {
     width: 58.33333333%;
   }
   .col-lg-6 {
-    width: 100%;
+    width: 50%;
   }
   .col-lg-5 {
     width: 41.66666667%;
@@ -2197,7 +2197,7 @@ pre code {
     left: 33.33333333%;
   }
   .col-lg-push-3 {
-    left: 0%;
+    left: 25%;
   }
   .col-lg-push-2 {
     left: 16.66666667%;
@@ -3448,7 +3448,7 @@ fieldset[disabled] .btn-link:focus {
 .btn-xs,
 .btn-group-xs > .btn {
   padding: 1px 5px;
-  font-size: 15px;
+  font-size: 12px;
   line-height: 1.5;
   border-radius: 3px;
 }
@@ -3983,7 +3983,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 8px 18px;
+  padding: 10px 15px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4088,7 +4088,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   float: left;
 }
 .nav-pills > li > a {
-  border-radius: 15px;
+  border-radius: 4px;
 }
 .nav-pills > li + li {
   margin-left: 2px;
@@ -4097,7 +4097,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #20c120;
+  background-color: #337ab7;
 }
 .nav-stacked > li {
   float: none;
